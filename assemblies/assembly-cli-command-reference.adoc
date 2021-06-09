@@ -21,6 +21,12 @@ include::../modules/ref-cli-completion-zsh.adoc[leveloffset=+1]
 
 include::../modules/ref-cli-completion.adoc[leveloffset=+1]
 
+include::../modules/ref-cli-decision-create.adoc[leveloffset=+1]
+
+include::../modules/ref-cli-decision-delete.adoc[leveloffset=+1]
+
+include::../modules/ref-cli-decision-describe.adoc[leveloffset=+1]
+
 include::../modules/ref-cli-decision-list.adoc[leveloffset=+1]
 
 include::../modules/ref-cli-decision-use.adoc[leveloffset=+1]
